@@ -24,6 +24,6 @@ npm run dev
 [2]   5 errors and 0 warnings potentially fixable with the `--fix` option.
 [2]
 
-##version de node
+## version de node
 
 v12.18.3
